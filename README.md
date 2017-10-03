@@ -4,7 +4,7 @@
 
 Hello everyone, this game originally followed a tutorial by Mozilla, but has since then departed from the mold, by adding buttons and functionality and allowing you to kill the AI.
 
-This game is hosted at [bradenrucinski.com/pongsux/index.html](www.bradenrucinski.com/pongsux). My up-to-date source code is running at that site, with cleaner, more professional language. 
+This game is hosted at [bradenrucinski.com/pongsux/index.html](www.bradenrucinski.com/pongsux/index.html). My up-to-date source code is running at that site, with cleaner, more professional language. 
 
 If you want to learn to make games in the HTML Canvas, you can get started below!
 
