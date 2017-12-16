@@ -1,6 +1,6 @@
 # PongShooter
 ## Practicing with the HTML5 Canvas and Javascript pong
---updated 10/2/17--index.html is latest file, oldindex.html is old file
+--updated 10/2/17--index.html is latest file
 
 Hello everyone, this game originally followed a tutorial by Mozilla, but has since then departed from the mold, by adding buttons and functionality and allowing you to kill the AI.
 
